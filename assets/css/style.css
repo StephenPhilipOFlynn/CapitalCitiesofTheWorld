@@ -4,3 +4,13 @@
     border: none;
     box-sizing: border-box;
 }
+
+/* footer of index page styling */
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
