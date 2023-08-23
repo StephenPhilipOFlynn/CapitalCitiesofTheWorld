@@ -10,6 +10,20 @@ body {
     font-family: urbanist;
     color: aliceblue;
 }
+/*photo reel */
+#photos {
+    clear: both;
+    line-height: 0;
+    max-width: 100%;
+    column-count: 5;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%
+}
+
+
 
 /* footer of index page styling */
 
@@ -20,3 +34,4 @@ body {
 .social-networks > li {
     display: inline;
 }
+
